@@ -1,0 +1,10 @@
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\bin\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.deps.json
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\bin\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.runtimeconfig.json
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\bin\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.runtimeconfig.dev.json
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\bin\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.dll
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\bin\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.pdb
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\obj\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.csprojResolveAssemblyReference.cache
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\obj\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.AssemblyInfo.cs
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\obj\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.dll
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\obj\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.pdb
+C:\projects\C# Bootcamp\For the repo\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\LAB 10 CUSTOMER REPO\bin\Debug\netcoreapp1.1\LAB 10 CUSTOMER REPO.xml

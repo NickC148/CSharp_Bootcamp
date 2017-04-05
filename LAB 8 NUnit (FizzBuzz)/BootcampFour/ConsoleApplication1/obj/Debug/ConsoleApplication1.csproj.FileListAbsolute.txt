@@ -1,0 +1,11 @@
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\bin\Debug\FizzBuzz.dll
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\bin\Debug\FizzBuzz.pdb
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\bbdnet1448\Desktop\BootcampDayTwo\BootcampFour\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\projects\C# Bootcamp\Day 2\C#Projects\BootcampFour(2)\BootcampFour\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\projects\C# Bootcamp\Day 2\C#Projects\BootcampFour(2)\BootcampFour\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\projects\C# Bootcamp\Day 2\C#Projects\BootcampFour(2)\BootcampFour\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

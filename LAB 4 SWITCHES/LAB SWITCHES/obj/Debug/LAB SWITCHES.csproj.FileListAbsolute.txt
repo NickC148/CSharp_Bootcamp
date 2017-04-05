@@ -1,0 +1,6 @@
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB SWITCHES\LAB SWITCHES\bin\Debug\LAB SWITCHES.exe.config
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB SWITCHES\LAB SWITCHES\bin\Debug\LAB SWITCHES.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB SWITCHES\LAB SWITCHES\bin\Debug\LAB SWITCHES.pdb
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB SWITCHES\LAB SWITCHES\obj\Debug\LAB SWITCHES.csprojResolveAssemblyReference.cache
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB SWITCHES\LAB SWITCHES\obj\Debug\LAB SWITCHES.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB SWITCHES\LAB SWITCHES\obj\Debug\LAB SWITCHES.pdb

@@ -1,0 +1,6 @@
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB Nkandla\LAB Nkandla\bin\Debug\LAB Nkandla.exe.config
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB Nkandla\LAB Nkandla\bin\Debug\LAB Nkandla.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB Nkandla\LAB Nkandla\bin\Debug\LAB Nkandla.pdb
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB Nkandla\LAB Nkandla\obj\Debug\LAB Nkandla.csprojResolveAssemblyReference.cache
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB Nkandla\LAB Nkandla\obj\Debug\LAB Nkandla.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB Nkandla\LAB Nkandla\obj\Debug\LAB Nkandla.pdb

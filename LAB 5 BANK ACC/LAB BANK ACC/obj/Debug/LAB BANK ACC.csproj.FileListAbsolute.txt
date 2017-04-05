@@ -1,0 +1,6 @@
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB BANK ACC\LAB BANK ACC\bin\Debug\LAB BANK ACC.exe.config
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB BANK ACC\LAB BANK ACC\obj\Debug\LAB BANK ACC.csprojResolveAssemblyReference.cache
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB BANK ACC\LAB BANK ACC\bin\Debug\LAB BANK ACC.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB BANK ACC\LAB BANK ACC\bin\Debug\LAB BANK ACC.pdb
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB BANK ACC\LAB BANK ACC\obj\Debug\LAB BANK ACC.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB BANK ACC\LAB BANK ACC\obj\Debug\LAB BANK ACC.pdb

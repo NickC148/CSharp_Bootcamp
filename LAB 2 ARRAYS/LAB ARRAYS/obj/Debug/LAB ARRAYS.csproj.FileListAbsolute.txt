@@ -1,0 +1,6 @@
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB ARRAYS\LAB ARRAYS\bin\Debug\LAB ARRAYS.exe.config
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB ARRAYS\LAB ARRAYS\bin\Debug\LAB ARRAYS.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB ARRAYS\LAB ARRAYS\bin\Debug\LAB ARRAYS.pdb
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB ARRAYS\LAB ARRAYS\obj\Debug\LAB ARRAYS.csprojResolveAssemblyReference.cache
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB ARRAYS\LAB ARRAYS\obj\Debug\LAB ARRAYS.exe
+C:\projects\C# Bootcamp\Day 1\C#Projects\LAB ARRAYS\LAB ARRAYS\obj\Debug\LAB ARRAYS.pdb

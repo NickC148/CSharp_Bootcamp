@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LAB 10 CUSTOMER REPO</name>
+    </assembly>
+    <members>
+        <member name="M:LAB_10_CUSTOMER_REPO.Controllers.CustomerController.Delete(System.Int64)">
+            <summary>
+            Deletes Customer from DB for stuff and things
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

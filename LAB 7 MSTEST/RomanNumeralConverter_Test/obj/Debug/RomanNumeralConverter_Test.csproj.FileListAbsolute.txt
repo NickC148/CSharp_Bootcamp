@@ -1,0 +1,7 @@
+C:\projects\C# Bootcamp\Day 2\C#Projects\LAB MSTEST\RomanNumeralConverter_Test\obj\Debug\RomanNumeralConverter_Test.csprojResolveAssemblyReference.cache
+C:\projects\C# Bootcamp\Day 2\C#Projects\LAB MSTEST\RomanNumeralConverter_Test\bin\Debug\RomanNumeralConverter_Test.dll
+C:\projects\C# Bootcamp\Day 2\C#Projects\LAB MSTEST\RomanNumeralConverter_Test\bin\Debug\RomanNumeralConverter_Test.pdb
+C:\projects\C# Bootcamp\Day 2\C#Projects\LAB MSTEST\RomanNumeralConverter_Test\bin\Debug\RomanNumeralConverter.dll
+C:\projects\C# Bootcamp\Day 2\C#Projects\LAB MSTEST\RomanNumeralConverter_Test\bin\Debug\RomanNumeralConverter.pdb
+C:\projects\C# Bootcamp\Day 2\C#Projects\LAB MSTEST\RomanNumeralConverter_Test\obj\Debug\RomanNumeralConverter_Test.dll
+C:\projects\C# Bootcamp\Day 2\C#Projects\LAB MSTEST\RomanNumeralConverter_Test\obj\Debug\RomanNumeralConverter_Test.pdb
